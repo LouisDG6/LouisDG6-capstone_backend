@@ -1,0 +1,4 @@
+2021-12-22 02:42:28 - INFO - "GET / HTTP/1.1" 200 1219
+2021-12-22 02:42:28 - INFO - "GET /static/style.css HTTP/1.1" 200 648
+2021-12-22 03:04:56 - INFO - "GET /bigmomscakies HTTP/1.1" 200 523
+2021-12-22 03:04:56 - INFO - "GET /bigmomscakies/1 HTTP/1.1" 200 162
